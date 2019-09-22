@@ -5,7 +5,6 @@ import com.twu67.demo.CounterVisit;
 import com.twu67.demo.model.CreditCard;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.MediaType;
