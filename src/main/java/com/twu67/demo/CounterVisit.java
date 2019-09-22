@@ -2,7 +2,9 @@ package com.twu67.demo;
 
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.MeterRegistry;
+import org.springframework.stereotype.Component;
 
+@Component
 public class CounterVisit {
   private final Counter counter;
 
