@@ -18,6 +18,7 @@
     
 ### Visit services
 - for project : localhost:8081
+- for swagger ui : localhost:8081/swagger-ui.html
 - for sonarqube: localhost:9000
 - for prometheus: localhost:9090
 - for grafana: localhost:3000
